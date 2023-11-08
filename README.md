@@ -13,7 +13,8 @@ Here are the works I will be doing with this class: (placeholders for now and wi
 
 
 ## Data Visualization Workshops
-
+### Homework Visual Showcase
+<iframe src="https://data.oecd.org/chart/7faY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7faY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 
 

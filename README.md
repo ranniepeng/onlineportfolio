@@ -52,7 +52,7 @@ Here are the works I will be doing with this class: (placeholders for now and wi
 </script>
 In this visualization, I selected two different colors (yellow and greenish blue) and created a color-diverged bar chart on the subsets of the data (based on the filter of the recent decade, from 2012 to 2022, and used the average ratio instead of the sum of the ratio over years). Based on the first and second visualizations, I think it might contain too much information for viewers to grasp efficiently, so I decided to create one that has less information in terms of time-lapse but focused more on the recent ratio fluctuations. Based on [American Leader](https://theamericanleader.org/problems/national-debt/#:~:text=The%20target%20most%20commonly%20referenced,between%20tax%20and%20spending%20policies.) and the Wikipedia searches, I founded out that the below 60% ratio indicates a country's health economic condition. Based on that information, I set the center of color divergent to 60. Such visualization can help the viewers better understand which country(ies) has had better economic growth and condition in the past ten years. 
 
-[title](HW3&4)
+#### [HW 3&4 Visualization from MakeoverMonday](HW3&4)
 
 
 ## Final project
